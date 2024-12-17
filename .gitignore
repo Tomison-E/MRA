@@ -32,6 +32,7 @@ migrate_working_dir/
 /lib/dev.env.dart
 /lib/prod.env.dart
 /build/
+/assets/
 
 # Symbolication related
 app.*.symbols
