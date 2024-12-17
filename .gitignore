@@ -29,6 +29,8 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
+/lib/dev.env.dart
+/lib/prod.env.dart
 /build/
 
 # Symbolication related
